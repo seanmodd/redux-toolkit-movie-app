@@ -1,3 +1,11 @@
+# Redux Toolkit Tutorial Docs
+- **Original Version:**
+- [GitHub Repo, React_Redux_ToolKit_Movie_App](https://github.com/dmalvia/React_Redux_ToolKit_Movie_App)
+- [YouTube Video](https://www.youtube.com/watch?v=2kL28Qyw9-0)
+- **My Version:**
+- [GitHub Repo, Redux-Toolkit-Movie-App](https://github.com/seanmodd/redux-toolkit-movie-app)
+- [YouTube Video Part 1](https://www.youtube.com/watch?v=r2hyHMQVVAI)
+- [YouTube Video Part 2](https://www.youtube.com/watch?v=UzQ_WycxK48)
 # Redux Actions
 ***rdac* - Redux Toolkit: Create Action (also in reducer)**
 ```
